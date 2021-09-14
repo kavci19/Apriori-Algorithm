@@ -5,6 +5,8 @@ import itertools
 
 from pandas import DataFrame
 
+# here is a dummy comment added to demonstrate editing a branch for advanced swe
+
 class Apriori:
 
     def __init__(self, min_supp, min_conf):
